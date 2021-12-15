@@ -1,7 +1,7 @@
 from random import choice, randint
 from webbrowser import open
 
-for _ in range(9):
+for _ in range(383759):
     sauce = 'https://nhentai.net/g/'
     sauce += choice([str(randint(1, 3)), ''])
     for _ in range(5):
