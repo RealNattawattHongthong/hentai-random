@@ -1,7 +1,7 @@
 import random
 import webbrowser
 
-for i in range(5):
+for i in range(383759):
 
     d1 = random.choice([str(random.randint(1, 3)), ''])
     d2 = str(random.randint(0, 9))
